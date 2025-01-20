@@ -1,0 +1,33 @@
+body{
+    font-family:'Oswald';
+    background-color: black;
+}
+ul {
+
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    background-color:red;
+    text-decoration: none;
+}
+li {
+    color: white;
+    
+    
+}
+h1 {
+    color: white;
+    text-align: center;
+}
+.instagram {
+    border-radius: 50%;
+    margin-left: auto;
+}
+.x {
+   border-radius: 50%;
+    margin-left: auto;
+}
+a  {
+    text-decoration: none;
+    text-align: left;
+}

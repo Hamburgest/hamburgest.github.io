@@ -1,0 +1,98 @@
+body{
+    font-family:'Oswald';
+    background-color: black;
+}
+ul {
+
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    background-color:red;
+    text-decoration: none;
+}
+li {
+    color: white;
+    
+    
+}
+h1 {
+    text-align: center;
+    color: white;
+  
+}
+
+p {
+    text-align: center;
+    color: white;
+}
+
+.logo {
+    margin-left: auto;
+    border-radius: 50%;
+    
+}
+
+h2 {
+    color: white;
+    text-align: center;
+}
+H3 {
+    color: white;
+    text-align: left;
+}
+
+P {
+    text-align: left;
+    color: white;
+    margin-left: auto;
+}
+.GTA {
+    margin-right: 1000px;
+    height: 100px;
+    width: 200px;
+    padding: auto;
+}
+.Assassins {
+    color:white;
+    text-align: left;
+}
+.texto {
+    color: white;
+    
+}
+.a {
+    margin-right: 1000px;
+    height: 100px;
+    width: 200px;
+    padding: auto;
+}
+.ghost {
+color: white;
+
+}
+.g {
+    color: white;
+    
+}
+
+.Ghost {
+    margin-right: 1000px;
+    height: 100px;
+    width: 200px;
+    padding: auto;
+} 
+    
+.berserk {
+    color: white;
+text-align: left;
+}
+.khazan {
+    color: white;
+text-align: left;
+}
+.first {
+    margin-right: 1000px;
+    height: 100px;
+    width: 200px;
+    padding: auto;
+}

@@ -1,0 +1,38 @@
+body {
+    font-family:'Oswald';
+    background-color: black;
+    margin: 0;
+    padding: 0;
+   
+}
+ul {
+
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    background-color:red;
+    text-decoration: none;
+}
+ 
+
+.logo {
+    border-radius: 40%;
+    margin-left: auto;
+}
+p {
+    color: white;
+    font-size: 18px;
+    margin-right: 20px;
+    margin-right: 20px;
+}
+
+.xd {
+    float: right; 
+  width: 200px; 
+  height: 100px; 
+
+
+}
+h1{ 
+    color: white;
+}
