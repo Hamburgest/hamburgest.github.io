@@ -1,0 +1,38 @@
+body {
+    font-family:'Oswald';
+    background-color: black;
+    margin: 0;
+    padding: 0;
+   
+}
+
+
+ul {
+
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    background-color:red;
+    text-decoration: none;
+}
+li {
+    color: white;
+    
+    
+}
+.logo {
+    border-radius: 40%;
+    margin-left: auto;
+}
+h1 {
+    text-align: center;
+    color: white;
+}
+p {
+    color:white;
+}
+.bueno {
+    margin-top: auto;
+    height: 200px;
+    width: 200px;
+}
